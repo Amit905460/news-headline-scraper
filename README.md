@@ -24,3 +24,20 @@ Install dependencies using pip:
 
 ```bash
 pip install requests beautifulsoup4 lxml
+
+📦 How to Run
+python news_scraper.py
+After running, a file named news.txt will be created containing the latest headlines.
+
+📁 Sample Output (news.txt)
+June 6th is Secure Your Load Day
+Cleaning Up with GIS
+Environmental Marketing is Failing
+Transforming Outdoor Preparedness: GOES Health Launches PrecisionAlert
+
+📄 Files in This Project
+File	             Description
+news_scraper.py	   Python script that scrapes and saves headlines
+news.txt	         Output file containing latest headlines
+README.md	         Project documentation
+
